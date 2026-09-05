@@ -297,7 +297,7 @@ if __name__ == "__main__":
 
 ## output
 
-<img width="1207" height="522" alt="image" src="https://github.com/user-attachments/assets/6339abd6-49c2-400b-b2e5-9ade80912a3a" />
+<img width="488" height="145" alt="image" src="https://github.com/user-attachments/assets/06acc7cc-05f8-474c-b29c-ef2caf964423" />
 
 ## Result
 
